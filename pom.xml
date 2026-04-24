@@ -36,6 +36,7 @@
       <environment>Sandbox</environment>
       <target>Cloudhub-US-East-2</target>
       <muleVersion>4.11.3:4e</muleVersion>
+		<releaseChannel>EDGE</releaseChannel>
       <username>${user}</username>
       <password>${pass}</password>
       <applicationName>${applicationName}</applicationName>
