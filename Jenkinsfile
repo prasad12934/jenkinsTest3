@@ -49,7 +49,7 @@ stages {
                         -DskipTests ^
                         -Duser=%ANYPOINT_USER% ^
                         -Dpass=%ANYPOINT_PASS% ^
-                        -DapplicationName=jenkins-test-33
+                        -DapplicationName=jenkins-test-333
                 """
             }
         }
